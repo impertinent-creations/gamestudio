@@ -1,0 +1,10 @@
+{
+  "appId": "gamestudio",
+  "apiKey": "1ee3ddb086d52efd7a3bc5914fe255feb13be34ffba0d279a974c96f5a6812e3",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

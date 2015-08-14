@@ -1,0 +1,29 @@
+{
+  "name": "gamestudio",
+  "version": "0.0.0",
+  "homepage": "https://github.com/impertinent-creations/gamestudio#readme",
+  "authors": [
+    "rafszul <rafszul@gmail.com> (http://rafszul.github.io/)"
+  ],
+  "description": "studio is a gamefication web app serving as front end and onboarding platform for [love2d game maker](https://github.com/LOVE2D-Game-Maker)",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "LOVE2D"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-stamplay": "*",
+    "angular": "~1.4.1",
+    "materialize": "~0.97.0",
+    "stamplay-sdk": "~1.2.0"
+  }
+}

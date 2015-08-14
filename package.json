@@ -1,0 +1,24 @@
+{
+  "name": "gamestudio",
+  "version": "1.0.0",
+  "description": "studio is a gamefication web app serving as front end and onboarding platform for [love2d game maker](https://github.com/LOVE2D-Game-Maker)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impertinent-creations/gamestudio.git"
+  },
+  "keywords": [
+    "stamplay",
+    "LOVE2D",
+    "LOVE2D-Game-Maker"
+  ],
+  "author": "rafszul <rafszul@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impertinent-creations/gamestudio/issues"
+  },
+  "homepage": "https://github.com/impertinent-creations/gamestudio#readme"
+}
